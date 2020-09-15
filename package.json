@@ -1,0 +1,24 @@
+{
+  "name": "rea-robot-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imzisy/toy-robot-simulator.git"
+  },
+  "author": "Emad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imzisy/toy-robot-simulator/issues"
+  },
+  "homepage": "https://github.com/imzisy/toy-robot-simulator#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
